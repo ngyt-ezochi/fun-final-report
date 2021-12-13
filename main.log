@@ -1,0 +1,39 @@
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.10.25)  5 DEC 2021 01:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/Users/YutaNoguchi/final-report/main
+(/Users/YutaNoguchi/final-report/main.tex
+pLaTeX2e <2020-10-01>+2 (based on LaTeX2e <2020-10-01> patch level 4)
+L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/platex/jsclasses/jsbook.cls
+Document Class: jsbook 2020/10/09 jsclasses (okumura, texjporg)
+
+! Class jsbook Error: You are running pLaTeX.
+(jsbook)              Please use upLaTeX instead, or remove 'uplatex' from
+(jsbook)              the class option list.
+
+See the jsbook class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238       {\@ehc}
+                   
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.238       {\@ehc}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 159 strings out of 479466
+ 2351 string characters out of 5870547
+ 293753 words of memory out of 5000000
+ 17948 multiletter control sequences out of 15000+600000
+ 407301 words of font info for 44 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 38i,0n,46p,207b,14s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
