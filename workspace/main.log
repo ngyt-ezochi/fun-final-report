@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.8.3-u1.26-191112-2.6 (utf8.uptex) (TeX Live 2020) (preloaded format=uplatex 2021.11.8)  14 DEC 2021 01:11
+This is e-upTeX, Version 3.14159265-p3.8.3-u1.26-191112-2.6 (utf8.uptex) (TeX Live 2020) (preloaded format=uplatex 2021.11.8)  25 DEC 2021 01:39
 entering extended mode
  restricted \write18 enabled.
 **main.tex
@@ -359,48 +359,63 @@ LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
 (Font)              scaled to size 19.17792pt on input line 1.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 19.17792pt on input line 1.
-) (./chapter2.tex [1
+[1
 
-]
+]) (./chapter2.tex [2]
 第2章
-) (./chapter3.tex [2
+[3
 
-]
+]) (./chapter3.tex [4]
 第3章
-) (./chapter4.tex [3
+) (./chapter4.tex [5
 
 ]
 第4章
-) (./chapter5.tex [4
+) (./chapter5.tex [6
 
 ]
 第5章
-) (./chapter6.tex [5
+) (./chapter6.tex [7
 
 ]
 第6章
-) (./acknowledgment.tex [6
+) (./acknowledgment.tex [8
 
-]) (./bibliography.tex [7
+]) (./bibliography.tex [9
 
-]) (./chapterA1.tex [8
+]
+Underfull \hbox (badness 1005) in paragraph at lines 8--11
+\OT1/lmr/m/n/10 with dis-charged elas-tic en-ergy and its ef-fec-tive-ness for in-air key-press and
+ []
 
-]) [9
+
+Underfull \hbox (badness 1354) in paragraph at lines 12--16
+\OT1/lmr/m/n/10 Con-fer-ence on Hu-man Fac-tors in Com-put-ing Sys-tems, 3115 \JY2/mc/m/n/10 – \OT1/lmr/m/n/10 19. CHI \JY2/mc/m/n/10 ’
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 12--16
+\OT1/lmr/m/n/10 17. New York, NY, USA: As-so-ci-a-tion for Com-put-ing Ma-chin-ery, 2017 \JY2/mc/m/n/10 年\OT1/lmr/m/n/10 .
+ []
+
+) (./chapterA1.tex [10
+
+]) [11
 
 ] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 2744 strings out of 479473
- 36752 string characters out of 5871161
- 341159 words of memory out of 5000000
- 20371 multiletter control sequences out of 15000+600000
+ 2746 strings out of 479473
+ 36776 string characters out of 5871161
+ 342162 words of memory out of 5000000
+ 20373 multiletter control sequences out of 15000+600000
  462937 words of font info for 104 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 68i,4n,74p,269b,186s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,4n,74p,307b,186s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (12 pages, 22144 bytes).
+Output written on main.dvi (14 pages, 31436 bytes).
 
 
 main.dvi -> main.pdf
-[1][2][3][4][5][6][7][8][9][10][11][12]
-122385 bytes written
+[1][2][3][4][5][6][7][8][9][10][11][12][13][14]
+166907 bytes written
 
